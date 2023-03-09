@@ -6,4 +6,4 @@ network:
   ethernets:
     ens160:
       addresses:
-      - 172.16.63.130/24
+      - 172.16.63.140/24
