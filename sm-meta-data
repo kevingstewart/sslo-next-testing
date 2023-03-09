@@ -1,0 +1,9 @@
+instance-id: big-ip-next
+local-hostname: big-ip-next
+dsmode: local
+network:
+  version: 2
+  ethernets:
+    ens160:
+      addresses:
+      - 172.16.63.130/24
